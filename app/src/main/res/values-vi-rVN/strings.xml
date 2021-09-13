@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AwesomeApp</string>
+    <string name="welcome_to_awesome_app">Chào mừng bạn đến với Ứng Dụng Tuyệt Vời này!</string>
+    <string name="your_email">Email của bạn</string>
+    <string name="your_password">Mật khẩu của bạn</string>
+    <string name="sign_in">Đăng Nhập</string>
+    <string name="email_required">Bắt buộc nhập email</string>
+    <string name="invalid_email">Email không hợp lệ</string>
+    <string name="login_verified">Đăng nhập thành công</string>
+</resources>

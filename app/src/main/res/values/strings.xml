@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AwesomeApp</string>
+    <string name="welcome_to_awesome_app">Welcome to AwesomeApp</string>
+    <string name="your_email">Your Email</string>
+    <string name="your_password">Your Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="app_s_logo" translatable="false">App\'s logo</string>
+    <string name="email_required">Email required</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="login_verified">Login successful</string>
+</resources>
